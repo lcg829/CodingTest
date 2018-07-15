@@ -20,3 +20,5 @@ gen/
 .classpath
 .project
 .DS_Store
+
+*.log
